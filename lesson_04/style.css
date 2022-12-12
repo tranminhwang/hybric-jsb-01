@@ -1,0 +1,112 @@
+/* 
+- selector by tag name 
+- class name
+- id  */
+
+/* h1 {
+  color: blue;
+  text-align: center;
+  font-size: 64px;
+  font-style: italic;
+  text-transform: uppercase;
+  font-weight: bold;
+} */
+
+/* .title-blue {
+  color: blue;
+  text-align: center;
+  font-size: 64px;
+  font-style: italic;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.title-yellow {
+  color: yellow;
+  text-align: center;
+  font-size: 64px;
+  font-style: italic;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+p {
+  font-size: 32px;
+  font-style: italic;
+  text-align: center;
+} */
+
+/* div {
+  width: 300px;
+  height: 300px;
+  background-color: red;
+  background-image: url(https://media.vneconomy.vn/w800/images/upload/2022/11/26/1100x619-cmsv2-1fe21f6e-a55d-5d2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 15px;
+  border: 10px solid yellow;
+} */
+
+/* button {
+  background-color: #1877f2;
+  border: none;
+  border-radius: 6px;
+  font-size: 20px;
+  line-height: 48px;
+  padding: 0 16px;
+  width: 332px;
+  color: white;
+} */
+/* 
+.btn {
+  border-radius: 6px;
+  font-size: 20px;
+  line-height: 48px;
+  padding: 0 16px;
+  width: 332px;
+}
+.btn-login {
+  background-color: #1877f2;
+  border: none;
+  color: white;
+}
+
+.btn-signup {
+  background-color: white;
+  border: 1px solid #1877f2;
+  color: black;
+}
+
+.btn-3 {
+    color: red;
+} */
+
+h1 {
+    display: inline;
+    width: 600px;
+    height: 600px;
+    background-color: aqua;
+}
+
+p {
+    display: inline;
+    background-color: blueviolet;
+}
+
+.left-block {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    font-size: 55px;
+    text-align: center;
+}
+
+.right-block {
+    display: inline-block;
+    width: 600px;
+    height: 300px;
+    background-color: blue;
+    font-size: 55px;
+    text-align: center;
+}
